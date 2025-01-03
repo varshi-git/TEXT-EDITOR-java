@@ -32,6 +32,13 @@ A simple Java-based text editor with basic file and text manipulation functional
 4.Run the application:
 
         java TextEditorr
+## Requirements
+
+   Java Development Kit (JDK) version 8 or higher.
+   
+## Code Structure
+
+  TextEditorr.java: The main file containing the GUI and functionality of the text editor.
 
 
 
